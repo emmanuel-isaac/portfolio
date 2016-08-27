@@ -18,7 +18,7 @@ function Contact() {
       <hr />
 
       <div className="row">
-        <div className="col-sm-4">
+        <div className="col-xs-4">
           <button
             className="btn btn-primary"
             type="button"
@@ -26,7 +26,7 @@ function Contact() {
             Twitter
           </button>
         </div>
-        <div className="col-sm-4">
+        <div className="col-xs-4">
           <button
             className="btn btn-primary"
             type="button"
@@ -34,7 +34,7 @@ function Contact() {
             Github
           </button>
         </div>
-        <div className="col-sm-4">
+        <div className="col-xs-4">
           <button
             className="btn btn-primary"
             type="button"
