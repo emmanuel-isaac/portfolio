@@ -11,7 +11,6 @@ import 'babel-polyfill';
 import '!file?name=[name].[ext]!./manifest.json';
 import 'file?name=[name].[ext]!./.htaccess';
 /* eslint-enable import/no-unresolved */
-import 'react-bootstrap';
 
 // Import all the third party stuff
 import React from 'react';

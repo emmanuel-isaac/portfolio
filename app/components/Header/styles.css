@@ -2,15 +2,11 @@
 }
 
 .navbar {
-  background: #055A8C;
-  border: none;
   border-radius: 0;
+  text-align: center;
 }
 
-.brand {
-  color: #fff !important;
-}
-
-.navitem a{
-  color: #fff !important;
+.navbarbrand,
+.navitem a {
+  /*color: #FFF !important;*/
 }
