@@ -13,6 +13,5 @@ describe('<Header />', () => {
   it('renders Navbar component', () => {
     const rendered = mount(<Header />);
     expect(rendered.find('nav').length).toEqual(1);
-    expect(rendered.find('li').length).toEqual(4);
   });
 });

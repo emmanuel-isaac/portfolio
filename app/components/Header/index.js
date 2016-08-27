@@ -13,7 +13,7 @@ function Header() {
     <div className={styles.header}>
       <nav className={`navbar navbar-light ${styles.navbar}`}>
         <div className="container">
-          <h2 className={`h2`}>Emmanuel Isaac</h2>
+          <h2 className={'h2'}>Emmanuel Isaac</h2>
         </div>
       </nav>
     </div>
