@@ -12,8 +12,8 @@ import styles from './styles.css';
 function About() {
   return (
     <div className={`container ${styles.about}`}>
-      <h3 className={`h3`}>ABOUT</h3>
-      <p className={`lead`}>
+      <h3 className={'h3'}>ABOUT</h3>
+      <p className={'lead'}>
         I am a software craftsman with the desire to always deliver top-notch, high performance,
         high coverage, and scalable applications.
       </p>

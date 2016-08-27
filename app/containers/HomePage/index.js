@@ -5,7 +5,7 @@
  */
 
 import React from 'react';
-import {connect} from 'react-redux';
+import { connect } from 'react-redux';
 
 import ShortBio from '../../components/ShortBio';
 import About from '../../components/About';

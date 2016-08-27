@@ -1,8 +1,8 @@
 .shortBio { /* stylelint-ignore */
-    height: 600px;
-    width: 100%;
-    border: thin #E6E6E6 solid;
-    background-color: #fff;
+  height: 600px;
+  width: 100%;
+  border: thin #E6E6E6 solid;
+  background-color: #EDEDED;
 }
 
 .shortBio .bioText {

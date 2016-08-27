@@ -14,7 +14,7 @@ function ShortBio() {
     <div className={styles.shortBio}>
       <Header />
 
-      <div className={`container`}>
+      <div className={'container'}>
         <div className={styles.bioText}>
           <p>&lt;SOFTWARE CRAFTSMAN /&gt;</p>
           <p>&lt;CRITICAL THINKER /&gt;</p>

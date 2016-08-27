@@ -20,7 +20,7 @@ function Contact() {
       <div className="row">
         <div className="col-xs-4">
           <button
-            className="btn btn-primary"
+            className="btn btn-secondary"
             type="button"
           >
             Twitter
@@ -28,7 +28,7 @@ function Contact() {
         </div>
         <div className="col-xs-4">
           <button
-            className="btn btn-primary"
+            className="btn btn-secondary"
             type="button"
           >
             Github
@@ -36,7 +36,7 @@ function Contact() {
         </div>
         <div className="col-xs-4">
           <button
-            className="btn btn-primary"
+            className="btn btn-secondary"
             type="button"
           >
             Google+
